@@ -79,7 +79,7 @@ ul li {
 }
 
 .icon {
-    width: 24px;
-    height: 24px;
-    margin-right: 10px;
+    width: 20px; /* ปรับขนาดไอคอนให้เล็กลง */
+    height: auto; /* ให้ความสูงปรับตามสัดส่วน */
+    margin-right: 10px; /* เพิ่มระยะห่างจากข้อความ */
 }
